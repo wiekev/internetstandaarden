@@ -1,0 +1,28 @@
+bronvermelding
+
+Tekst:
+  https://en.wikipedia.org/wiki/New_York_City
+  algemenen info NYC
+  https://nl.wikipedia.org/wiki/IJsland
+  algemenen info IJsland
+  https://en.wikipedia.org/wiki/Japan
+  algemenen info Japan
+
+
+
+afbeelding:
+  https://www.fotobehang.nl/wereldkaart-met-gekleurde-continenten.html
+  foto van de wereldkaart
+
+  https://www.naturescanner.nl/europa/ijsland
+  foto ijsland
+
+  https://www.independent.co.uk/travel/asia/japan/japan-travel-guide-country-b2228204.html
+  foto japan
+
+  https://theplanetd.com/best-things-to-do-in-tokyo/
+  foto tokyo
+
+  https://www.manhattanhoteltimessquare.com/blog/best-places-to-photograph-nyc-in-the-snow/
+  foto NYC in sneew
+
