@@ -7,6 +7,12 @@ Tekst:
   algemenen info IJsland
   https://en.wikipedia.org/wiki/Japan
   algemenen info Japan
+  https://en.wikipedia.org/wiki/Tokyo#Culture
+  cultuur tokyo
+  https://www.reizenin.net/europa/ijsland/over-ijsland/cultuur/
+  tradities IJsland
+  https://nl.wikipedia.org/wiki/Empire_State_of_Mind
+  tekst empire state of mind
 
 
 
@@ -25,4 +31,15 @@ afbeelding:
 
   https://www.manhattanhoteltimessquare.com/blog/best-places-to-photograph-nyc-in-the-snow/
   foto NYC in sneew
+
+  https://en.wikipedia.org/wiki/Tokyo#Culture
+  foto tokyo National Museum
+
+  https://streetartutopia.com/2023/04/26/icelands-tiny-houses-for-elves/
+  foto IJsland huisjes in de bergen
+
+
+
+Audio:
+  https://online-omzetten.nl/download/?token=339969e64280b5941178b65a0e27bd90&type=mp3&pagefrom=undefined&pageto=undefined&csvenc=undefined&csvsep=undefined&ref=https%3A%2F%2Fonline-omzetten.nl%2F&dpi=0&ocr=0&password=undefined&splitsingle=0&pagenumbers=0&max_size=0&papersize=&compress_video_size=-&remove_audio=0&subtitle=0&addfile=&remove_metadata=0
 
