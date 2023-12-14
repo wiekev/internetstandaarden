@@ -97,7 +97,8 @@ main img{
     display: flex;
     align-content: center;
     margin-right: 3em;
-    margin-left: 3em;
+    margin-left: 1em;
+    margin-bottom: 5em;
 }
 
 
